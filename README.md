@@ -1,5 +1,12 @@
 # Army Personnel Analytics Dashboard
+---
 
+## Dashboard Preview
+
+![Dashboard Preview](powerbi/dashboard.jpg)
+
+
+---
 ## Project Overview
 
 This project analyzes military personnel data to evaluate workforce readiness, performance, retention risk, compensation, and qualification levels across different units and ranks. The goal was to transform raw personnel records into actionable insights through Excel analysis and an interactive Power BI dashboard.
