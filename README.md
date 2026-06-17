@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](powerbi/dashboard.jpg)
+![Dashboard Preview](powerbi/dash.jpg)
 
 
 ---
@@ -190,8 +190,8 @@ Workforce-Analytics-Dashboard/
 │   ├── army_personnel_data.xlsx
 │
 ├── powerbi/
-│   ├── dash.pbix
-│   └── dash.jpg
+│   ├── dash.jpg
+│   └── dash.pbix
 │   └── dash.pdf
 │
 ├── python/
